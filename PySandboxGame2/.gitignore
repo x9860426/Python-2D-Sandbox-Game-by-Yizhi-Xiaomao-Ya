@@ -1,0 +1,22 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 打包产物
+dist/
+build/
+*.spec
+
+# IDE
+.idea/
+.vscode/
+.vs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 未使用的资源备份
+资源/图片-没有使用/
+资源/新建文件夹/

@@ -1,0 +1,38 @@
+2026-01-11 14:23:55,338 - INFO - 启动程序开始执行，当前目录：c:\Users\Administrator\Desktop\1--2d2代\999----开发文件夹----
+2026-01-11 14:23:55,338 - INFO - Python版本：3.13.3 (tags/v3.13.3:6280bb5, Apr  8 2025, 14:47:33) [MSC v.1943 64 bit (AMD64)]
+2026-01-11 14:23:55,339 - INFO - sys.path：['c:\\Users\\Administrator\\Desktop\\1--2d2代\\999----开发文件夹----', 'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2026-01-11 14:23:55,339 - INFO - 是否为打包环境：False
+2026-01-11 14:23:55,339 - INFO - 开始添加路径到sys.path
+2026-01-11 14:23:55,339 - INFO - 更新后的sys.path：['c:\\Users\\Administrator\\Desktop\\1--2d2代\\999----开发文件夹----\\存档', 'c:\\Users\\Administrator\\Desktop\\1--2d2代\\999----开发文件夹----\\6.资源管理', 'c:\\Users\\Administrator\\Desktop\\1--2d2代\\999----开发文件夹----\\5.游戏系统', 'c:\\Users\\Administrator\\Desktop\\1--2d2代\\999----开发文件夹----\\4.游戏界面', 'c:\\Users\\Administrator\\Desktop\\1--2d2代\\999----开发文件夹----\\3.物品与背包', 'c:\\Users\\Administrator\\Desktop\\1--2d2代\\999----开发文件夹----\\2.生物与NPC', 'c:\\Users\\Administrator\\Desktop\\1--2d2代\\999----开发文件夹----\\1.主程序与核心', 'c:\\Users\\Administrator\\Desktop\\1--2d2代\\999----开发文件夹----', 'c:\\Users\\Administrator\\Desktop\\1--2d2代\\999----开发文件夹----', 'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2026-01-11 14:23:55,339 - INFO - 当前工作目录：c:\Users\Administrator\Desktop\1--2d2代\999----开发文件夹----
+2026-01-11 14:23:55,339 - INFO - 检测到开发环境，准备执行主程序文件
+2026-01-11 14:23:55,339 - INFO - 主程序文件路径：c:\Users\Administrator\Desktop\1--2d2代\999----开发文件夹----\1.主程序与核心\主程序.py
+2026-01-11 14:23:55,340 - INFO - 主程序文件是否存在：True
+2026-01-11 14:23:55,340 - INFO - 开始读取主程序文件
+2026-01-11 14:23:55,340 - INFO - 主程序文件读取完成，大小：17470字节
+2026-01-11 14:23:55,340 - INFO - 开始执行主程序
+2026-01-11 14:23:55,343 - ERROR - 启动程序出现异常：SyntaxError: invalid syntax (<string>, line 42)
+2026-01-11 14:23:55,343 - ERROR - 详细堆栈信息:
+2026-01-11 14:23:55,359 - ERROR - Traceback (most recent call last):
+  File "c:\Users\Administrator\Desktop\1--2d2代\999----开发文件夹----\启动程序.py", line 215, in <module>
+    exec(main_content, globals())
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 42
+    窗口标志 = pygame.RESIZABLE |  # 可调节大小
+                               ^^^^^^^
+SyntaxError: invalid syntax
+
+2026-01-11 14:23:55,360 - INFO - 显示错误信息窗口
+2026-01-11 14:24:02,840 - INFO - 启动程序开始执行，当前目录：c:\Users\Administrator\Desktop\1--2d2代\999----开发文件夹----
+2026-01-11 14:24:02,840 - INFO - Python版本：3.13.3 (tags/v3.13.3:6280bb5, Apr  8 2025, 14:47:33) [MSC v.1943 64 bit (AMD64)]
+2026-01-11 14:24:02,840 - INFO - sys.path：['c:\\Users\\Administrator\\Desktop\\1--2d2代\\999----开发文件夹----', 'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2026-01-11 14:24:02,840 - INFO - 是否为打包环境：False
+2026-01-11 14:24:02,841 - INFO - 开始添加路径到sys.path
+2026-01-11 14:24:02,841 - INFO - 更新后的sys.path：['c:\\Users\\Administrator\\Desktop\\1--2d2代\\999----开发文件夹----\\存档', 'c:\\Users\\Administrator\\Desktop\\1--2d2代\\999----开发文件夹----\\6.资源管理', 'c:\\Users\\Administrator\\Desktop\\1--2d2代\\999----开发文件夹----\\5.游戏系统', 'c:\\Users\\Administrator\\Desktop\\1--2d2代\\999----开发文件夹----\\4.游戏界面', 'c:\\Users\\Administrator\\Desktop\\1--2d2代\\999----开发文件夹----\\3.物品与背包', 'c:\\Users\\Administrator\\Desktop\\1--2d2代\\999----开发文件夹----\\2.生物与NPC', 'c:\\Users\\Administrator\\Desktop\\1--2d2代\\999----开发文件夹----\\1.主程序与核心', 'c:\\Users\\Administrator\\Desktop\\1--2d2代\\999----开发文件夹----', 'c:\\Users\\Administrator\\Desktop\\1--2d2代\\999----开发文件夹----', 'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2026-01-11 14:24:02,841 - INFO - 当前工作目录：c:\Users\Administrator\Desktop\1--2d2代\999----开发文件夹----
+2026-01-11 14:24:02,841 - INFO - 检测到开发环境，准备执行主程序文件
+2026-01-11 14:24:02,841 - INFO - 主程序文件路径：c:\Users\Administrator\Desktop\1--2d2代\999----开发文件夹----\1.主程序与核心\主程序.py
+2026-01-11 14:24:02,841 - INFO - 主程序文件是否存在：True
+2026-01-11 14:24:02,841 - INFO - 开始读取主程序文件
+2026-01-11 14:24:02,842 - INFO - 主程序文件读取完成，大小：17334字节
+2026-01-11 14:24:02,842 - INFO - 开始执行主程序

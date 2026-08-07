@@ -1,0 +1,25 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 打包产物
+dist/
+build/
+*.spec
+
+# IDE
+.idea/
+.vscode/
+.vs/
+
+# 存档（运行时生成）
+存档/
+
+# 临时文件
+临时*.py
+新建文件夹/
+
+# OS
+.DS_Store
+Thumbs.db
